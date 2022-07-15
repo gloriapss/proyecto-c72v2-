@@ -1,2 +1,2 @@
-# proyecto-c72v2-
-Proyecto de la clase 72 - v2
+# PRO-C72-PROYECTO
+Proyecto PRO-C72
